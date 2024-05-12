@@ -9,6 +9,7 @@ process and classify speech signals to detect the embedded emotions.
 #### Dataset:
 We will use CREMA dataset that is available at the following link: 
 https://www.kaggle.com/dmitrybabko/speech-emotion-recognition-en
+
 a. **Data Splitting:**
    -  We splited the data into 70% for training and validation, and 30% for testing.
 
